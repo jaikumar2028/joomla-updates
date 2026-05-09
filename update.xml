@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+    <update>
+        <name>System - AD IMPORTER for VirtueMart</name>
+        <description>AD IMPORTER for VirtueMart</description>
+        <element>adimporter</element>
+        <type>plugin</type>
+        <folder>system</folder>
+        <version>3.2.0</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://yourwebsite.com/adimporter.zip</downloadurl>
+        </downloads>
+        <maintainer>AD IMPORTER</maintainer>
+        <maintainerurl>https://yourwebsite.com</maintainerurl>
+        <targetplatform name="joomla" version="4.[012345]"/>
+    </update>
+</updates>
